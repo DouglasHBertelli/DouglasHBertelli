@@ -1,9 +1,9 @@
 ### Olá!! Sou o Douglas Bertelli, estudante de Análise e Desenvolvimento de Sistemas 👋
 
 <div>
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=DouglasHBertelli&show_icons=true&theme=dracula&include_all_comits=true"_
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=DouglasHBertelli&show_icons=true&theme=dracula&include_all_comits=true"_
        "&count_private=true"/>
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasHBertelli&layout=compact&theme=dracula"/>
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasHBertelli&layout=compact&theme=dracula"/>
   
   </div>
 
